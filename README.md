@@ -41,8 +41,8 @@ Python, Pandas, Matplotlib, SQL Server, SQLAlchemy, Power BI, Jupyter, SSMS, Git
 
 ## Project Structure
 - `healthcare_claims_analysis.ipynb` - Main analysis notebook
-- `sql/` - 6 SQL query scripts
-- `data/` - Cleaned claims dataset
+- `01_claims_by_status.sql` through `06_outlier_summary.sql` - SQL query scripts
+- `health_insurance_claims_cleaned.csv` - Cleaned claims dataset
 - `dashboard_overview.png` - Power BI overview page
 - `dashboard_detailed.png` - Power BI detailed analysis page
 
